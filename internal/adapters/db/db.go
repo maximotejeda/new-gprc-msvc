@@ -44,3 +44,5 @@ func CreateTables(db *sql.DB) {
 		panic(err)
 	}
 }
+
+//TODO implement translation from db to domain models

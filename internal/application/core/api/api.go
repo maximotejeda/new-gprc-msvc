@@ -20,4 +20,4 @@ func NewApplication(db ports.DBPort) *Application {
 	}
 }
 
-// todo Export differents Methods to map to grpc contracts
+// TODO:  Export differents Methods to map to grpc contracts

@@ -1,3 +1,5 @@
 package ports
 
-type APIPort interface{}
+type APIPort interface {
+	// TODO Implement API methods
+}
